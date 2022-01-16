@@ -1,0 +1,1 @@
+import DesktopNavbar from './desktop/navbar.svelte';
