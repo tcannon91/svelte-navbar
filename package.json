@@ -1,6 +1,11 @@
 {
   "name": "@tcannon/navbar",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tcannon91/svelte-navbar"
+  },
   "scripts": {
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
